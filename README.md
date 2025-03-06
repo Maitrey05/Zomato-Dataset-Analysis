@@ -48,5 +48,5 @@ The distribution of restaurant ratings and average cost for two was analyzed. Th
 ## Technologies Used
 
 *   Python
-*   [List any specific libraries used, e.g., Pandas, NumPy, Matplotlib, Seaborn]
+*   Libraries used, e.g., Pandas, NumPy, Matplotlib, Seaborn
 
