@@ -50,14 +50,3 @@ The distribution of restaurant ratings and average cost for two was analyzed. Th
 *   Python
 *   [List any specific libraries used, e.g., Pandas, NumPy, Matplotlib, Seaborn]
 
-## Datasets
-
-[Provide information about the dataset(s) used, including source and any modifications made.]
-
-## How to Run the Code
-
-[Provide instructions on how to run the analysis code, including any required dependencies.]
-
-## Contributing
-
-[Explain how others can contribute to the project.]
